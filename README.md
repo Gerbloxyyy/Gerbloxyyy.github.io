@@ -4,7 +4,7 @@ Click the links below to download the batch scripts directly from this repositor
 
 - [**⬇ Download tempdel.bat**](https://Gerbloxyyy.github.io/tempdel.bat)
 - [**⬇ Download sinfo.bat**](https://Gerbloxyyy.github.io/sinfo.bat)
-- [**⬇ Download Gyel.bat**](https://Gerbloxyyy.github.io/Gyel.bat)
+- [**⬇ Download Gyel.bat**](https://Gerbloxyyy.github.io/Gyel.bat) Username: root Password: root
 - [**⬇ Download gamestart.bat**](https://Gerbloxyyy.github.io/gamestart.bat)
 - [**⬇ Download bhistory.bat**](https://Gerbloxyyy.github.io/bhistory.bat)
 
